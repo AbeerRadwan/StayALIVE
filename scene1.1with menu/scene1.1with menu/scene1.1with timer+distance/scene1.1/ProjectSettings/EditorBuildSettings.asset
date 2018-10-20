@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/scene1.1.unity
+    guid: 280d27f5f2673a4489f852687487e7b3
+  - enabled: 1
+    path: Assets/scene1.1+timer+distance.unity
+    guid: 471c07bdaf62ab44b8586ef967a86c05
+  - enabled: 0
+    path: Assets/Kitchen/Scenes/RenderTexture.unity
+    guid: d5545059c6381d848ab3d612c68f2669
+  - enabled: 0
+    path: Assets/Kitchen/Scenes/Layout Groups.unity
+    guid: 13b46e70f240943ccb1f2665a779f3a6
+  m_configObjects: {}

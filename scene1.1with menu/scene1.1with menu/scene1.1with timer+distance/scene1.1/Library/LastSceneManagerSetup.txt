@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/abeer/Desktop/scene1.1with menu/scene1.1with timer+distance/scene1.1/Assets/scene1.1+timer+distance.unity
+  isLoaded: 1
+  isActive: 1
